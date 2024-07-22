@@ -1,1 +1,2 @@
-this is about git
+this is about git 
+i am trying to change my gmail
